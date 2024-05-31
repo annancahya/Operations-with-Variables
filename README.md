@@ -1,2 +1,2 @@
 # Operations-with-Variables
-Mencoba melakukan operasi sederhana dengan C# agar tampil di console
+Mencoba melakukan operasi sederhana dengan C# agar tampil di console.
